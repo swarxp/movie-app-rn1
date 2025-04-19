@@ -100,14 +100,6 @@ export const OMDB_CONFIG = {
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Screenshots
-
-(Screenshots of the app would go here)
-
 ## Acknowledgements
 
 - [OMDB API](http://www.omdbapi.com/) for providing movie data
